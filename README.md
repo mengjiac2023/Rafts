@@ -1,5 +1,5 @@
 # RFL
-Implementation of the paper "RFL: Robust and Fault-Tolerant Federated Learning"
+Implementation of the paper "Rafts: Robust and Fault-Tolerant Secure Aggregation in Federated Learning"
 
 Setup
 ```
