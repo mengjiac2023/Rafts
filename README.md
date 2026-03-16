@@ -1,4 +1,4 @@
-# RFL
+# Rafts
 Implementation of the paper "Rafts: Robust and Fault-Tolerant Secure Aggregation in Federated Learning"
 
 Setup
